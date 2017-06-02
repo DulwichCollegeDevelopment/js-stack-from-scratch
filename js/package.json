@@ -1,0 +1,11 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "file used to describe configure this JavaScript project. It contains general information (project name, version, contributors, licence, etc), configuration, and options for tools to use, and a section to run tasks.",
+  "main": "index.js",cd
+  "author": "harzicn",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  }
+}
